@@ -1,0 +1,20 @@
+.task-object-details{
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.task-object-details h3{
+    width:60%;
+    margin-left:1px;
+    margin-right: 2px;
+}
+
+.task-object-details button{
+    width:15%;
+    height:35px;
+    margin-left:1px;
+    margin-right: 2px;
+}
+

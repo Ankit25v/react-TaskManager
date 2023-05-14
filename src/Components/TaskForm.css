@@ -1,0 +1,36 @@
+.task-form-container
+{
+    height: 35%;
+    background-color: yellow;
+    border: 0.5px solid white;
+    color:black;
+    text-align: center;
+
+}
+
+.taskForm
+{
+    max-height: 100%;
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.taskForm input
+{
+    width:80%;
+    height: 30px;
+    margin-left: 2px;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.taskForm button
+{
+    
+    width:40%;
+    margin-right: 2px;
+}
+

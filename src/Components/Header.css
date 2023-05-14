@@ -1,0 +1,9 @@
+.TaskHeader
+{
+    
+    height: 15%;
+    background-color: red;
+    border: 0.5px solid white;
+    color:white;
+    text-align: center;
+}

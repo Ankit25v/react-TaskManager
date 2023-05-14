@@ -1,0 +1,9 @@
+.task-list-container
+{
+    height: 50%;
+    background-color: blue;
+    border: 0.5px solid white;
+    color:black;
+    text-align: center;
+
+}
